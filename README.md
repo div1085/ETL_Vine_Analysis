@@ -6,7 +6,8 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ### Resources
 
-Datasource:  [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), 
+Datasource:  [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+
 Software: PostgreSQL 13, pgAdmin 5, AWS, Jupyter Notebook
 
 ### Findings:
