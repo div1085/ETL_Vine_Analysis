@@ -31,4 +31,4 @@ Total percentage of 5 star Vine review and percentage of 5 star non-Vine reviews
 
 As per the result there exists a positivity bias for reviews in the Vine program, as vine members overall left 51% of overall positive review, whereas non-vine members left overall 38% of the positive reviews.
 
-Total number of vine users are subset of overall users and respresents only 0.23 % of the overall users (94 out of 40565), which also corelated of positivity bias as the mean of review rating is higher for vine user.
+Total number of vine users are subset of overall users and respresents only 0.23 % of the overall users (94 out of 40565), which also strong indicator of positivity bias as the mean of review rating is higher for vine user.
